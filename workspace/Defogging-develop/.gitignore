@@ -1,0 +1,10 @@
+*.png
+*.bmp
+*.jpg
+.idea/
+.vscode/
+node_modules/
+dist/
+defogging.egg-info/
+build/
+.cache/
